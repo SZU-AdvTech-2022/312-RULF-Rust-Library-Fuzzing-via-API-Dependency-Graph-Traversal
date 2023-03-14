@@ -1,0 +1,7 @@
+@inproceedings{REPO-313,
+    author = "Jiang, Jianfeng and Xu, Hui and Zhou, Yangfan",
+    booktitle = "2021 36th IEEE/ACM International Conference on Automated Software Engineering (ASE)",
+    pages = "581-592",
+    title = "{RULF: Rust Library Fuzzing via API Dependency Graph Traversal}",
+    year = "2021"
+}
